@@ -1,8 +1,8 @@
 {
-  "name": "VihangaBot-MD",
+  "name": "𝙳𝙴𝚂𝙷𝙰𝙽 𝙱𝙾𝚃 𝙼𝙳",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/vihangayt0/VihangaBot-MD",
-  "logo": "hhttps://i.ibb.co/THTK67m/Vihanga-MD.png",
+  "repository": "https://chat.whatsapp.com/DJuZAZxfBi38lg7M0s8qlv",
+  "logo": "https://www.google.com/search?q=super+fire+dragon+walpaper+for+laptop&tbm=isch&ved=2ahUKEwivs5bUppv5AhXpNbcAHevICdcQ2-cCegQIABAC&oq=super+fire+dragon+walpaper+for+laptop&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIECB4QCjoECCMQJzoECAAQHjoGCAAQHhAIOggIABAeEAgQDToECCEQClCzBVibY2CtZWgBcAB4AIAB-wGIAe4okgEGMC44LjE3mAEAoAEBwAEB&sclient=mobile-gws-wiz-img&ei=GFviYq_HKunr3LUP65GnuA0&bih=558&biw=386&client=ms-android-samsung-gj-rev1&prmd=ivsn#imgrc=duZt0lVTC0pELM&imgdii=yqPK5QMuB6cFzM",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
